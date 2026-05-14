@@ -9,19 +9,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # This line tells the GitHub computer to use Nepal Time
+    env:
+      TZ: Asia/Kathmandu
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4 # Updated to version 4 (latest)
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # Updated to version 5
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12' # Your specific Python version
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
           pip install pandas requests
-          # sqlite3, os, logging, and datetime are already built into Python 3.12
 
       - name: Run Collector
         run: python collector.py
@@ -31,7 +35,9 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # Check if there are changes before committing to avoid errors
+          # This adds the database and the logs folder to the 'save' list
           git add data/pollution_system.db logs/system.log
+          
+          # This saves the changes with a timestamp
           git commit -m "Automated data update: $(date)" || echo "No changes to commit"
           git push
