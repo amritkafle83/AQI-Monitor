@@ -9,11 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # This line tells the GitHub computer to use Nepal Time
     env:
       TZ: Asia/Kathmandu
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
