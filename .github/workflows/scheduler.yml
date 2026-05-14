@@ -35,9 +35,12 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # This adds the database and the logs folder to the 'save' list
+          # 1. Pull the latest changes from the website to avoid conflicts
+          git pull origin main --rebase
+
+          # 2. Add the new data
           git add data/pollution_system.db logs/system.log
           
-          # This saves the changes with a timestamp
+          # 3. Save and Push
           git commit -m "Automated data update: $(date)" || echo "No changes to commit"
-          git push
+          git push origin main
