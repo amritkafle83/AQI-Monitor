@@ -2,18 +2,23 @@ name: 15-Minute Data Collector
 
 on:
   schedule:
-    # Runs every 15 minutes
     - cron: '*/15 * * * *'
-  workflow_dispatch: # Allows you to test it manually by clicking a button
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # This ensures the $(date) command uses Nepal Time
     env:
       TZ: Asia/Kathmandu
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # This 'fetch-depth: 0' helps the robot see the full history for syncing
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,12 +37,12 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # 1. Pull the latest changes from the website to avoid conflicts
+          # 1. Sync with any manual changes you made on the website
           git pull origin main --rebase
 
-          # 2. Add the new data
+          # 2. Add the updated files
           git add data/pollution_system.db logs/system.log
           
-          # 3. Save and Push
+          # 3. Commit and Push back to GitHub
           git commit -m "Automated data update: $(date)" || echo "No changes to commit"
           git push origin main
