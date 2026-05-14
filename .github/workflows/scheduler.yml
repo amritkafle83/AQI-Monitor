@@ -37,9 +37,12 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # This line fetches your website changes so the robot is in sync
+          # 1. First, "stage" the changes so the robot knows what it's working with
+          git add data/pollution_system.db logs/system.log
+          
+          # 2. Now sync with the website (this will now work!)
           git pull origin main --rebase
 
-          git add data/pollution_system.db logs/system.log
+          # 3. Commit and Push
           git commit -m "Automated data update: $(date)" || echo "No changes to commit"
           git push origin main
