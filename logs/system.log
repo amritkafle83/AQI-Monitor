@@ -1,0 +1,148 @@
+2026-05-13 13:10:32,345 - INFO - System Startup Initiated.
+2026-05-13 13:10:33,126 - INFO - Data successfully fetched from API.
+2026-05-13 13:10:33,141 - INFO - SQL Success: Measurements stored.
+2026-05-13 13:25:33,587 - INFO - Data successfully fetched from API.
+2026-05-13 13:25:33,601 - INFO - SQL Success: Measurements stored.
+2026-05-13 13:40:33,827 - INFO - Data successfully fetched from API.
+2026-05-13 13:40:33,836 - INFO - SQL Success: Measurements stored.
+2026-05-13 13:55:34,309 - INFO - Data successfully fetched from API.
+2026-05-13 13:55:34,349 - INFO - SQL Success: Measurements stored.
+2026-05-13 14:10:35,836 - INFO - Data successfully fetched from API.
+2026-05-13 14:10:35,908 - INFO - SQL Success: Measurements stored.
+2026-05-13 14:25:36,604 - INFO - Data successfully fetched from API.
+2026-05-13 14:25:36,669 - INFO - SQL Success: Measurements stored.
+2026-05-13 14:40:37,252 - INFO - Data successfully fetched from API.
+2026-05-13 14:40:37,273 - INFO - SQL Success: Measurements stored.
+2026-05-13 14:55:37,766 - INFO - Data successfully fetched from API.
+2026-05-13 14:55:37,838 - INFO - SQL Success: Measurements stored.
+2026-05-13 15:10:38,361 - INFO - Data successfully fetched from API.
+2026-05-13 15:10:38,383 - INFO - SQL Success: Measurements stored.
+2026-05-13 15:25:39,819 - INFO - Data successfully fetched from API.
+2026-05-13 15:25:39,843 - INFO - SQL Success: Measurements stored.
+2026-05-13 15:40:40,337 - INFO - Data successfully fetched from API.
+2026-05-13 15:40:40,358 - INFO - SQL Success: Measurements stored.
+2026-05-13 15:55:41,057 - INFO - Data successfully fetched from API.
+2026-05-13 15:55:41,088 - INFO - SQL Success: Measurements stored.
+2026-05-13 16:10:40,431 - INFO - Data successfully fetched from API.
+2026-05-13 16:10:40,490 - INFO - SQL Success: Measurements stored.
+2026-05-13 16:25:41,226 - INFO - Data successfully fetched from API.
+2026-05-13 16:25:41,247 - INFO - SQL Success: Measurements stored.
+2026-05-13 16:40:41,598 - INFO - Data successfully fetched from API.
+2026-05-13 16:40:41,616 - INFO - SQL Success: Measurements stored.
+2026-05-13 16:55:42,144 - INFO - Data successfully fetched from API.
+2026-05-13 16:55:42,160 - INFO - SQL Success: Measurements stored.
+2026-05-13 17:10:42,473 - INFO - Data successfully fetched from API.
+2026-05-13 17:10:42,500 - INFO - SQL Success: Measurements stored.
+2026-05-13 17:25:43,282 - INFO - Data successfully fetched from API.
+2026-05-13 17:25:43,312 - INFO - SQL Success: Measurements stored.
+2026-05-13 17:40:43,686 - INFO - Data successfully fetched from API.
+2026-05-13 17:40:43,704 - INFO - SQL Success: Measurements stored.
+2026-05-13 17:55:44,202 - INFO - Data successfully fetched from API.
+2026-05-13 17:55:44,214 - INFO - SQL Success: Measurements stored.
+2026-05-13 18:10:44,652 - INFO - Data successfully fetched from API.
+2026-05-13 18:10:44,671 - INFO - SQL Success: Measurements stored.
+2026-05-13 18:25:45,024 - INFO - Data successfully fetched from API.
+2026-05-13 18:25:45,047 - INFO - SQL Success: Measurements stored.
+2026-05-13 18:40:45,303 - INFO - Data successfully fetched from API.
+2026-05-13 18:40:45,325 - INFO - SQL Success: Measurements stored.
+2026-05-13 18:55:45,560 - INFO - Data successfully fetched from API.
+2026-05-13 18:55:45,618 - INFO - SQL Success: Measurements stored.
+2026-05-13 19:10:45,966 - INFO - Data successfully fetched from API.
+2026-05-13 19:10:45,993 - INFO - SQL Success: Measurements stored.
+2026-05-13 19:25:46,339 - INFO - Data successfully fetched from API.
+2026-05-13 19:25:46,357 - INFO - SQL Success: Measurements stored.
+2026-05-13 19:40:46,859 - INFO - Data successfully fetched from API.
+2026-05-13 19:40:46,875 - INFO - SQL Success: Measurements stored.
+2026-05-13 19:55:47,335 - INFO - Data successfully fetched from API.
+2026-05-13 19:55:47,363 - INFO - SQL Success: Measurements stored.
+2026-05-13 20:10:47,581 - INFO - Data successfully fetched from API.
+2026-05-13 20:10:47,613 - INFO - SQL Success: Measurements stored.
+2026-05-13 20:25:51,733 - INFO - Data successfully fetched from API.
+2026-05-13 20:25:51,745 - INFO - SQL Success: Measurements stored.
+2026-05-13 20:40:52,100 - INFO - Data successfully fetched from API.
+2026-05-13 20:40:52,122 - INFO - SQL Success: Measurements stored.
+2026-05-13 20:55:52,535 - INFO - Data successfully fetched from API.
+2026-05-13 20:55:52,556 - INFO - SQL Success: Measurements stored.
+2026-05-13 21:10:53,809 - INFO - Data successfully fetched from API.
+2026-05-13 21:10:53,831 - INFO - SQL Success: Measurements stored.
+2026-05-13 21:25:54,365 - INFO - Data successfully fetched from API.
+2026-05-13 21:25:54,417 - INFO - SQL Success: Measurements stored.
+2026-05-13 21:40:54,993 - INFO - Data successfully fetched from API.
+2026-05-13 21:40:55,004 - INFO - SQL Success: Measurements stored.
+2026-05-13 21:55:55,852 - INFO - Data successfully fetched from API.
+2026-05-13 21:55:55,874 - INFO - SQL Success: Measurements stored.
+2026-05-13 22:10:56,313 - INFO - Data successfully fetched from API.
+2026-05-13 22:10:56,327 - INFO - SQL Success: Measurements stored.
+2026-05-13 22:25:56,813 - INFO - Data successfully fetched from API.
+2026-05-13 22:25:56,829 - INFO - SQL Success: Measurements stored.
+2026-05-13 22:40:57,068 - INFO - Data successfully fetched from API.
+2026-05-13 22:40:57,080 - INFO - SQL Success: Measurements stored.
+2026-05-13 22:55:57,493 - INFO - Data successfully fetched from API.
+2026-05-13 22:55:57,519 - INFO - SQL Success: Measurements stored.
+2026-05-13 23:10:57,998 - INFO - Data successfully fetched from API.
+2026-05-13 23:10:58,020 - INFO - SQL Success: Measurements stored.
+2026-05-13 23:25:58,811 - INFO - Data successfully fetched from API.
+2026-05-13 23:25:58,828 - INFO - SQL Success: Measurements stored.
+2026-05-14 07:00:34,884 - INFO - System Startup Initiated.
+2026-05-14 07:00:35,141 - INFO - Data successfully fetched from API.
+2026-05-14 07:00:35,208 - INFO - SQL Success: Measurements stored.
+2026-05-14 07:15:35,994 - INFO - Data successfully fetched from API.
+2026-05-14 07:15:36,022 - INFO - SQL Success: Measurements stored.
+2026-05-14 07:30:36,725 - INFO - Data successfully fetched from API.
+2026-05-14 07:30:36,734 - INFO - SQL Success: Measurements stored.
+2026-05-14 07:45:37,184 - INFO - Data successfully fetched from API.
+2026-05-14 07:45:37,195 - INFO - SQL Success: Measurements stored.
+2026-05-14 08:00:37,644 - INFO - Data successfully fetched from API.
+2026-05-14 08:00:37,681 - INFO - SQL Success: Measurements stored.
+2026-05-14 08:15:38,283 - INFO - Data successfully fetched from API.
+2026-05-14 08:15:38,297 - INFO - SQL Success: Measurements stored.
+2026-05-14 08:30:38,751 - INFO - Data successfully fetched from API.
+2026-05-14 08:30:38,778 - INFO - SQL Success: Measurements stored.
+2026-05-14 08:45:40,285 - INFO - Data successfully fetched from API.
+2026-05-14 08:45:40,294 - INFO - SQL Success: Measurements stored.
+2026-05-14 09:00:40,857 - INFO - Data successfully fetched from API.
+2026-05-14 09:00:40,868 - INFO - SQL Success: Measurements stored.
+2026-05-14 09:15:41,549 - INFO - Data successfully fetched from API.
+2026-05-14 09:15:41,565 - INFO - SQL Success: Measurements stored.
+2026-05-14 09:30:42,995 - INFO - Data successfully fetched from API.
+2026-05-14 09:30:43,020 - INFO - SQL Success: Measurements stored.
+2026-05-14 09:45:43,639 - INFO - Data successfully fetched from API.
+2026-05-14 09:45:43,665 - INFO - SQL Success: Measurements stored.
+2026-05-14 10:00:44,286 - INFO - Data successfully fetched from API.
+2026-05-14 10:00:44,300 - INFO - SQL Success: Measurements stored.
+2026-05-14 10:15:45,658 - INFO - Data successfully fetched from API.
+2026-05-14 10:15:45,672 - INFO - SQL Success: Measurements stored.
+2026-05-14 10:30:45,997 - INFO - Data successfully fetched from API.
+2026-05-14 10:30:46,060 - INFO - SQL Success: Measurements stored.
+2026-05-14 10:45:46,488 - INFO - Data successfully fetched from API.
+2026-05-14 10:45:46,502 - INFO - SQL Success: Measurements stored.
+2026-05-14 11:00:47,013 - INFO - Data successfully fetched from API.
+2026-05-14 11:00:47,045 - INFO - SQL Success: Measurements stored.
+2026-05-14 11:15:47,735 - INFO - Data successfully fetched from API.
+2026-05-14 11:15:47,751 - INFO - SQL Success: Measurements stored.
+2026-05-14 11:30:48,748 - INFO - Data successfully fetched from API.
+2026-05-14 11:30:48,763 - INFO - SQL Success: Measurements stored.
+2026-05-14 11:45:49,938 - INFO - Data successfully fetched from API.
+2026-05-14 11:45:49,966 - INFO - SQL Success: Measurements stored.
+2026-05-14 12:00:50,496 - INFO - Data successfully fetched from API.
+2026-05-14 12:00:50,518 - INFO - SQL Success: Measurements stored.
+2026-05-14 12:15:51,105 - INFO - Data successfully fetched from API.
+2026-05-14 12:15:51,141 - INFO - SQL Success: Measurements stored.
+2026-05-14 12:49:58,046 - INFO - Data successfully fetched from API.
+2026-05-14 12:49:58,090 - INFO - SQL Success: Measurements stored.
+2026-05-14 13:04:59,346 - INFO - Data successfully fetched from API.
+2026-05-14 13:04:59,392 - INFO - SQL Success: Measurements stored.
+2026-05-14 13:20:00,841 - INFO - Data successfully fetched from API.
+2026-05-14 13:20:00,868 - INFO - SQL Success: Measurements stored.
+2026-05-14 13:35:03,097 - INFO - Data successfully fetched from API.
+2026-05-14 13:35:03,131 - INFO - SQL Success: Measurements stored.
+2026-05-14 13:50:06,305 - INFO - Data successfully fetched from API.
+2026-05-14 13:50:06,372 - INFO - SQL Success: Measurements stored.
+2026-05-14 14:05:07,035 - INFO - Data successfully fetched from API.
+2026-05-14 14:05:07,068 - INFO - SQL Success: Measurements stored.
+2026-05-14 14:20:08,385 - INFO - Data successfully fetched from API.
+2026-05-14 14:20:08,416 - INFO - SQL Success: Measurements stored.
+2026-05-14 14:35:09,167 - INFO - Data successfully fetched from API.
+2026-05-14 14:35:09,200 - INFO - SQL Success: Measurements stored.
+2026-05-14 14:50:09,791 - INFO - Data successfully fetched from API.
+2026-05-14 14:50:09,825 - INFO - SQL Success: Measurements stored.
