@@ -4,4 +4,6 @@ streamlit
 plotly
 scikit-learn
 tensorflow
-statsmodel
+statsmodels
+numpy
+matplotlib
