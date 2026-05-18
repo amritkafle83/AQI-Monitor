@@ -3,3 +3,5 @@ requests
 streamlit
 plotly
 scikit-learn
+tensorflow
+statsmodel
