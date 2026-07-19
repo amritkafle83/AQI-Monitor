@@ -2342,3 +2342,6 @@
 2026-07-19 05:53:26,918 - INFO - System Startup Initiated.
 2026-07-19 05:53:27,175 - INFO - Data successfully fetched from API.
 2026-07-19 05:53:27,179 - INFO - SQL Success: Measurements stored.
+2026-07-19 09:35:54,166 - INFO - System Startup Initiated.
+2026-07-19 09:35:54,418 - INFO - Data successfully fetched from API.
+2026-07-19 09:35:54,421 - INFO - SQL Success: Measurements stored.
