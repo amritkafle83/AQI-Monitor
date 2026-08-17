@@ -4028,3 +4028,6 @@
 2026-08-17 11:15:51,261 - INFO - System Startup Initiated.
 2026-08-17 11:15:51,493 - INFO - Data successfully fetched from API.
 2026-08-17 11:15:51,630 - INFO - SQL Success: Measurements stored.
+2026-08-17 11:49:06,762 - INFO - System Startup Initiated.
+2026-08-17 11:49:06,965 - INFO - Data successfully fetched from API.
+2026-08-17 11:49:06,969 - INFO - SQL Success: Measurements stored.
