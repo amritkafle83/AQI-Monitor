@@ -4430,3 +4430,6 @@
 2026-08-20 21:00:24,870 - INFO - System Startup Initiated.
 2026-08-20 21:00:25,251 - INFO - Data successfully fetched from API.
 2026-08-20 21:00:25,259 - INFO - SQL Success: Measurements stored.
+2026-08-20 21:35:13,126 - INFO - System Startup Initiated.
+2026-08-20 21:35:13,512 - INFO - Data successfully fetched from API.
+2026-08-20 21:35:13,518 - INFO - SQL Success: Measurements stored.
