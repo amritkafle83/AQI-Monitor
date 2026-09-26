@@ -5753,3 +5753,6 @@
 2026-09-27 00:20:49,245 - INFO - System Startup Initiated.
 2026-09-27 00:20:49,397 - INFO - Data successfully fetched from API.
 2026-09-27 00:20:49,400 - INFO - SQL Success: Measurements stored.
+2026-09-27 03:19:21,327 - INFO - System Startup Initiated.
+2026-09-27 03:19:21,566 - INFO - Data successfully fetched from API.
+2026-09-27 03:19:21,569 - INFO - SQL Success: Measurements stored.
